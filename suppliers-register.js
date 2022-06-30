@@ -1,3 +1,0 @@
-var suppliersName
-var suppliersCNPJ
-var suppliersAddress
