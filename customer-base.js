@@ -1,7 +1,8 @@
 var customerID;
 var customerName;
+var customerCPF;
 var customerDocument;
-var costumerCEP
+var costumerCEP;
 var customerAddress;
 var customerCity;
 var customerBirthday;
